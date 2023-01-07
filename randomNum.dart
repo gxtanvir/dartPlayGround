@@ -1,4 +1,4 @@
-//Finding 10 Random Number from 1 to 8000
+//Finding 10 Random Number from 8000
 
 import 'dart:math';
 
